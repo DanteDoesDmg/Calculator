@@ -1,6 +1,6 @@
 # Calculator
 
-demo link:
+demo link: https://dantedoesdmg.github.io/Calculator/
 
 ## Functionality
 
