@@ -1,0 +1,16 @@
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+package-lock.json
+node_modules/
+.sass-cache/
+
+### Linux ###
+*~
+### Webstorm ###
+.idea/
+
+### Other ###
+.test/
