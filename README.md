@@ -17,4 +17,3 @@ A stylized calculator used for addition of up to 8 digit numbers in binary and d
 1. Ternary numeral system
 2. Octal numeral system
 3. Hexadecimal numeral system
-
